@@ -64,7 +64,9 @@ GET:
 
 ### PART 3
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+(Abrir en FireFox con el complemento para evitar la restricción de validación de CORS)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://obscure-hollows-87357.herokuapp.com)
 
 Añadir nueva tarea directamente en BackEnd:
 
